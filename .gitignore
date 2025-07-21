@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Shell histories
+.bash_history
+.zsh_history
+
+# Logs and temp files
+*.log
+*.tmp
