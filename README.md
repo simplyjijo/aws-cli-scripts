@@ -13,21 +13,7 @@ All scripts are tested and designed for automation and troubleshooting of S3 arc
 
 ## 📁 Repository Structure
 
-aws-cli-scripts/
-├── restore/
-│ ├── mac/
-│ │ ├── restore_folder.sh
-│ │ ├── restore_count.sh
-│ │ ├── copy_restored_objects.sh
-│ │ ├── list_storage_class.sh
-│ │ └── check_single_file_restore.sh
-│ └── windows/
-│ ├── restore_objects.cmd
-│ ├── restore_count.cmd
-│ ├── copy_restored_objects.cmd
-│ ├── list_storage_class.cmd
-│ └── check_single_file_restore.cmd
-└── .gitignore
+
 
 
 ---
