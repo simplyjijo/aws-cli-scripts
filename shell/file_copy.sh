@@ -1,0 +1,1 @@
+aws s3 cp "s3://source-bucket/path/to/file.ext" "s3://destination-bucket/path/to/file.ext" --storage-class STANDARD
